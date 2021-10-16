@@ -1,0 +1,12 @@
+com/csk/beer/inventory/service/web/mappers/BeerInventoryMapperImpl.class
+com/csk/beer/inventory/service/web/mappers/DateMapper.class
+com/csk/beer/inventory/service/repositories/BeerInventoryRepository.class
+com/csk/beer/inventory/service/web/model/BeerInventoryDto$BeerInventoryDtoBuilder.class
+com/csk/beer/inventory/service/web/mappers/BeerInventoryMapper.class
+com/csk/beer/inventory/service/BeerInventoryApplication.class
+com/csk/beer/inventory/service/domain/BeerInventory.class
+com/csk/beer/inventory/service/domain/BeerInventory$BeerInventoryBuilder.class
+com/csk/beer/inventory/service/web/model/BeerInventoryDto.class
+com/csk/beer/inventory/service/domain/BaseEntity.class
+com/csk/beer/inventory/service/web/controllers/BeerInventoryController.class
+com/csk/beer/inventory/service/bootstrap/BeerInvntoryBootstrap.class

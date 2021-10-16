@@ -1,0 +1,9 @@
+/home/krishna/workspaces/microservices/udemy/mssc-beer-inventory-service/src/main/java/com/csk/beer/inventory/service/repositories/BeerInventoryRepository.java
+/home/krishna/workspaces/microservices/udemy/mssc-beer-inventory-service/src/main/java/com/csk/beer/inventory/service/web/controllers/BeerInventoryController.java
+/home/krishna/workspaces/microservices/udemy/mssc-beer-inventory-service/src/main/java/com/csk/beer/inventory/service/BeerInventoryApplication.java
+/home/krishna/workspaces/microservices/udemy/mssc-beer-inventory-service/src/main/java/com/csk/beer/inventory/service/domain/BeerInventory.java
+/home/krishna/workspaces/microservices/udemy/mssc-beer-inventory-service/src/main/java/com/csk/beer/inventory/service/bootstrap/BeerInvntoryBootstrap.java
+/home/krishna/workspaces/microservices/udemy/mssc-beer-inventory-service/src/main/java/com/csk/beer/inventory/service/web/model/BeerInventoryDto.java
+/home/krishna/workspaces/microservices/udemy/mssc-beer-inventory-service/src/main/java/com/csk/beer/inventory/service/domain/BaseEntity.java
+/home/krishna/workspaces/microservices/udemy/mssc-beer-inventory-service/src/main/java/com/csk/beer/inventory/service/web/mappers/DateMapper.java
+/home/krishna/workspaces/microservices/udemy/mssc-beer-inventory-service/src/main/java/com/csk/beer/inventory/service/web/mappers/BeerInventoryMapper.java
