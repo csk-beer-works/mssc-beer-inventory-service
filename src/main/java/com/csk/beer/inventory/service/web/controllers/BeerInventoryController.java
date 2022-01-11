@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.csk.beer.inventory.service.repositories.BeerInventoryRepository;
 import com.csk.beer.inventory.service.web.mappers.BeerInventoryMapper;
-import com.csk.beer.inventory.service.web.model.BeerInventoryDto;
+import com.csk.brewery.model.BeerInventoryDto;
 
 import java.util.List;
 import java.util.UUID;
